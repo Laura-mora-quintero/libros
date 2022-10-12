@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+
+.menu li{
+   display: list-item;
+}
+
+.menu li a:hover{
+    background-color: aliceblue;
+}
